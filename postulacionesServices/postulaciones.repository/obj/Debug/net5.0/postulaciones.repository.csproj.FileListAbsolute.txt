@@ -1,0 +1,15 @@
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\bin\Debug\net5.0\postulaciones.repository.deps.json
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\bin\Debug\net5.0\postulaciones.repository.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\bin\Debug\net5.0\ref\postulaciones.repository.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\bin\Debug\net5.0\postulaciones.repository.pdb
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\bin\Debug\net5.0\postulaciones.domain.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\bin\Debug\net5.0\postulaciones.domain.pdb
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\obj\Debug\net5.0\postulaciones.repository.csproj.AssemblyReference.cache
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\obj\Debug\net5.0\postulaciones.repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\obj\Debug\net5.0\postulaciones.repository.AssemblyInfoInputs.cache
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\obj\Debug\net5.0\postulaciones.repository.AssemblyInfo.cs
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\obj\Debug\net5.0\postulaciones.repository.csproj.CoreCompileInputs.cache
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\obj\Debug\net5.0\postulaciones.repository.csproj.CopyComplete
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\obj\Debug\net5.0\postulaciones.repository.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\obj\Debug\net5.0\ref\postulaciones.repository.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.repository\obj\Debug\net5.0\postulaciones.repository.pdb

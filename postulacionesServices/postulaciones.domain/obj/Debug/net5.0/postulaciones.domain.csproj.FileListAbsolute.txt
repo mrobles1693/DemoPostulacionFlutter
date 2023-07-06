@@ -1,0 +1,11 @@
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.domain\bin\Debug\net5.0\postulaciones.domain.deps.json
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.domain\bin\Debug\net5.0\postulaciones.domain.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.domain\bin\Debug\net5.0\ref\postulaciones.domain.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.domain\bin\Debug\net5.0\postulaciones.domain.pdb
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.domain\obj\Debug\net5.0\postulaciones.domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.domain\obj\Debug\net5.0\postulaciones.domain.AssemblyInfoInputs.cache
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.domain\obj\Debug\net5.0\postulaciones.domain.AssemblyInfo.cs
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.domain\obj\Debug\net5.0\postulaciones.domain.csproj.CoreCompileInputs.cache
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.domain\obj\Debug\net5.0\postulaciones.domain.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.domain\obj\Debug\net5.0\ref\postulaciones.domain.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.domain\obj\Debug\net5.0\postulaciones.domain.pdb

@@ -1,0 +1,17 @@
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\bin\Debug\net5.0\postulaciones.businesslogic.deps.json
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\bin\Debug\net5.0\postulaciones.businesslogic.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\bin\Debug\net5.0\ref\postulaciones.businesslogic.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\bin\Debug\net5.0\postulaciones.businesslogic.pdb
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\bin\Debug\net5.0\postulaciones.domain.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\bin\Debug\net5.0\postulaciones.repository.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\bin\Debug\net5.0\postulaciones.domain.pdb
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\bin\Debug\net5.0\postulaciones.repository.pdb
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\obj\Debug\net5.0\postulaciones.businesslogic.csproj.AssemblyReference.cache
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\obj\Debug\net5.0\postulaciones.businesslogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\obj\Debug\net5.0\postulaciones.businesslogic.AssemblyInfoInputs.cache
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\obj\Debug\net5.0\postulaciones.businesslogic.AssemblyInfo.cs
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\obj\Debug\net5.0\postulaciones.businesslogic.csproj.CoreCompileInputs.cache
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\obj\Debug\net5.0\postulaciones.businesslogic.csproj.CopyComplete
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\obj\Debug\net5.0\postulaciones.businesslogic.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\obj\Debug\net5.0\ref\postulaciones.businesslogic.dll
+D:\Desarrollo\GitHub\DemoPostulacionFlutter\postulacionesServices\postulaciones.businesslogic\obj\Debug\net5.0\postulaciones.businesslogic.pdb

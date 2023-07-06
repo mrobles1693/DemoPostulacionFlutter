@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\postulaciones.domain\postulaciones.domain.csproj" />
+    <ProjectReference Include="..\postulaciones.repository\postulaciones.repository.csproj" />
+  </ItemGroup>
+
+</Project>
